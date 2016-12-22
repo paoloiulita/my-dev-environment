@@ -1,0 +1,6 @@
+[
+    { "keys": ["super+s"], "command": "save_all" },
+    { "keys": ["super+alt+s"], "command": "save" },
+    { "keys": ["command+shift+i"], "command": "chain", "args": { "commands": [ ["reindent"], ["unexpand_tabs"] ] } },
+    { "keys": ["command+m"], "command": "goto_definition" }
+]
