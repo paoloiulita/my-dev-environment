@@ -30,29 +30,11 @@
 
 ## Configuration
 
-### Sublime packages
 
-- Alignment
-- All Autocomplete
-- Bracket​Highlighter
-- Chain of Command
-- Emmet
-- Material Theme
-- Pretty JSON
-- Sass
-- Typescript
 
 ### Coding font
 
 [Office Code](https://github.com/nathco/Office-Code-Pro)
-
-### Xcode packages (alcatraz.io)
-
-- Backlight
-- CComment
-- AutoIndentWithSave
-- Xcode colors
-- Build Time Analyzer
 
 ### Chrome extensions
 - AdBlock
@@ -66,6 +48,10 @@
 - Print Friendly & PDF
 - Quick Javascript Switcher
 
+### Safari extensions
+- AdBlock
+- Enpass
+
 ## Editors
 
 ### VSCode packages
@@ -73,9 +59,25 @@
 Debugger for chrome
 Vscode icons
 
-### Safari extensions
-- AdBlock
-- Enpass
+### Sublime packages
+
+- Alignment
+- All Autocomplete
+- Bracket​Highlighter
+- Chain of Command
+- Emmet
+- Material Theme
+- Pretty JSON
+- Sass
+- Typescript
+
+### Xcode packages (alcatraz.io)
+
+- Backlight
+- CComment
+- AutoIndentWithSave
+- Xcode colors
+- Build Time Analyzer
 
 ## Command Line
 Setup npm like this
