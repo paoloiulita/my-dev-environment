@@ -56,8 +56,8 @@
 
 ### VSCode packages
 
-Debugger for chrome
-Vscode icons
+- Debugger for chrome
+- Vscode icons
 
 ### Sublime packages
 
