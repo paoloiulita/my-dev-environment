@@ -1,18 +1,18 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Office Code Pro D",
-    "editor.fontSize": 16,
-    "editor.insertSpaces": false,
-    "editor.fontLigatures": true,
-    "editor.formatOnPaste": true,
-    "editor.renderIndentGuides": true,
-    "editor.detectIndentation": false,
-    "editor.renderWhitespace": "boundary",
-    "editor.formatOnType": true,
-    "editor.wrappingColumn": -1,
-    "files.trimTrailingWhitespace": true,
-    "typescript.check.tscVersion": false,
-    "window.reopenFolders": "none",
-    "explorer.openEditors.visible": 0,
-    "window.zoomLevel": 0
+	"editor.fontFamily": "Office Code Pro D",
+	"editor.fontSize": 16,
+	"editor.insertSpaces": false,
+	"editor.fontLigatures": true,
+	"editor.renderIndentGuides": true,
+	"editor.detectIndentation": false,
+	"editor.renderWhitespace": "boundary",
+	"editor.formatOnType": true,
+	"editor.wordWrap": "off",
+	"files.trimTrailingWhitespace": true,
+	"typescript.check.tscVersion": false,
+	"window.reopenFolders": "none",
+	"explorer.openEditors.visible": 0,
+	"window.zoomLevel": 0,
+	"workbench.iconTheme": "vscode-icons"
 }
