@@ -84,3 +84,4 @@
 - Install zsh: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 - use theme agnoster and set color scheme as solarized dark
 - install fonts: https://github.com/powerline/fonts and use SourceCode Pro
+- copy git-noalias plugin
