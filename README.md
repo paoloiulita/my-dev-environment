@@ -80,5 +80,3 @@
 - Build Time Analyzer
 
 ## Command Line
-Setup npm like this
-[NPM No Sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
