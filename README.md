@@ -38,15 +38,17 @@
 
 ### Chrome extensions
 - AdBlock
-- Cache Killer
+- Click to Remove Element
+- CSSViewer
 - Enpass
 - Google Docs
 - Google Sheets
 - Google Slides
-- Local Storage cleaner
+- JSON Formatter
 - Postman
-- Print Friendly & PDF
-- Quick Javascript Switcher
+- React Developer Tools
+- Removes Taboola
+- Youtube playlist link
 
 ### Safari extensions
 - AdBlock
