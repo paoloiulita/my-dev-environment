@@ -65,9 +65,8 @@
 
 - Alignment
 - All Autocomplete
+- Babel
 - Bracket​Highlighter
-- Chain of Command
-- Emmet
 - Material Theme
 - Pretty JSON
 - Sass
