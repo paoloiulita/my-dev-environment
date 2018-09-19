@@ -34,7 +34,7 @@
 
 ### Coding font
 
-[Office Code](https://github.com/nathco/Office-Code-Pro)
+[Fira Code](https://github.com/tonsky/FiraCode)
 
 ### Chrome extensions
 - AdBlock
