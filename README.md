@@ -7,18 +7,16 @@
 - Stuffit Expander
 - Xcode
 - Magnet
+- Slack
 - Enpass
 - Caffeine
 
 ### Other
 
 - AppCleaner
-- Bartender (not installed)
-- Codekit (not installed)
 - Dropbox
 - Chrome
 - MAMP (not installed)
-- Onyx (not installed)
 - Skype
 - Sourcetree
 - Sublime
