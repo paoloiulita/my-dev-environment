@@ -2,9 +2,14 @@
     "always_show_minimap_viewport": true,
     "bold_folder_labels": true,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-    "font_face": "Office Code Pro D",
+    "folder_exclude_patterns":
+	[
+		"node_modules"
+	],
+    "font_face": "Fira Code Medium",
     "font_options":
     [
+        "subpixel_antialias",
         "gray_antialias"
     ],
     "font_size": 22,
@@ -27,6 +32,6 @@
     "material_theme_compact_sidebar": true,
     "overlay_scroll_bars": "enabled",
     "theme": "Material-Theme.sublime-theme",
-    "translate_tabs_to_spaces": true,
+    "translate_tabs_to_spaces": false,
     "word_wrap": false
 }
