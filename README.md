@@ -4,37 +4,34 @@
 
 ### App Store
 
-- Stuffit Expander
-- Xcode
+- Enpass
 - Magnet
 - Slack
-- Enpass
-- Caffeine
+- Stuffit Expander
+- Telegram
+- Xcode
 
 ### Other
 
 - AppCleaner
 - Dropbox
 - Chrome
-- MAMP (not installed)
 - Skype
 - Sourcetree
 - Sublime
-- Transmit (not installed)
-- Vagrant (not installed)
-- VirtualBox (not installed)
+- Vagrant
+- VirtualBox
 - Visual Studio Code
-- VLC (not installed)
+- VLC
 
 ## Configuration
-
-
 
 ### Coding font
 
 [Fira Code](https://github.com/tonsky/FiraCode)
 
 ### Chrome extensions
+
 - AdBlock
 - Click to Remove Element
 - CSSViewer
@@ -45,12 +42,8 @@
 - JSON Formatter
 - Postman
 - React Developer Tools
+- Redux Developer Tools
 - Removes Taboola
-- Youtube playlist link
-
-### Safari extensions
-- AdBlock
-- Enpass
 
 ## Editors
 
@@ -61,6 +54,7 @@
 
 ### Sublime packages
 
+- Align Arguments
 - Alignment
 - All Autocomplete
 - Babel
@@ -70,13 +64,6 @@
 - Sass
 - Typescript
 
-### Xcode packages (alcatraz.io)
-
-- Backlight
-- CComment
-- AutoIndentWithSave
-- Xcode colors
-- Build Time Analyzer
 
 ## Command Line
 
