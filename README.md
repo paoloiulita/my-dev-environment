@@ -17,8 +17,8 @@
 - Dropbox
 - Chrome
 - Skype
-- Sourcetree
-- Sublime
+- Sublime Merge
+- Sublime Text
 - Vagrant
 - VirtualBox
 - Visual Studio Code
@@ -44,6 +44,7 @@
 - React Developer Tools
 - Redux Developer Tools
 - Removes Taboola
+- Removes W3Schools
 
 ## Editors
 
