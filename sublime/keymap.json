@@ -1,5 +1,6 @@
 [
     { "keys": ["super+s"], "command": "save_all" },
     { "keys": ["super+alt+s"], "command": "save" },
-    { "keys": ["command+m"], "command": "goto_definition" }
+    { "keys": ["command+m"], "command": "goto_definition" },
+    { "keys": ["super+r"], "command": "reveal_in_side_bar" },
 ]
