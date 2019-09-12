@@ -2,8 +2,8 @@
     # Log with style
     ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cgreen\\ [%ae,%ar]" --decorate --graph
     # Get current git branch name
-    cbn = git symbolic-ref --short HEAD
+    cbn = symbolic-ref --short HEAD
     # Reset EVERYTHING you have done in your working copy
-    pristine = git reset --hard && git clean -dfx
+    pristine = reset --hard && git clean -dfx
     # Push current branch automatically setting the upstream
-    pushups = git push --set-upstream origin $(git cbn)
+    pushups = push --set-upstream origin $(git cbn)
