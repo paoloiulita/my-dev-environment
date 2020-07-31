@@ -6,6 +6,9 @@ export ZSH=/Users/paolo/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="agnoster"
 
+# Replace vim with nano
+export EDITOR=nano
+
 # Uncomment the following line to display red dots whilst waiting for completion.
 COMPLETION_WAITING_DOTS="true"
 
