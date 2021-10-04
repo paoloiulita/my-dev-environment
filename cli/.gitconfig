@@ -8,8 +8,8 @@
 	template = /Users/paolo/.stCommitMsg
 [alias]
 
-    # Basic commands
-    cp = cherry-pick
+	# Basic commands
+	cp = cherry-pick
     st = status
     co = checkout
     c = commit
@@ -33,9 +33,6 @@
     
     # Unstage easy
     unstage = reset HEAD --
-    
-    # Rebase easy
-    rbmaster = !git fetch -tp && git rebase -p origin/master
 
     # Grep your entire codebase for a string
     grep = grep -Ii
@@ -45,12 +42,3 @@
 
     # List all of your aliases
     list-aliases = "!git config -l | grep alias | cut -c 7-"
-
-    # Rename current branch
-    rename-branch = "!f() { git branch -m \"$1\"; }; f"
-
-    # Start a new git flow feature
-    fs = "!f() { git flow feature start \"$1\"; }; f"
-
-    # Finish a git flow feature
-    ff = "!f() { git flow feature finish \"$1\"; }; f"
