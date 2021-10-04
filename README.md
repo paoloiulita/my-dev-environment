@@ -2,27 +2,16 @@
 
 ## Software
 
-### App Store
+### Brew
 
-- Enpass
-- Magnet
-- Slack
-- Stuffit Expander
-- Telegram
-- Xcode
-
-### Other
-
-- AppCleaner
-- Dropbox
-- Chrome
-- Skype
-- Sublime Merge
-- Sublime Text
-- Vagrant
-- VirtualBox
-- Visual Studio Code
-- VLC
+- bat
+- fd
+- git-flow-avh
+- gnu-getopt
+- jq
+- oauth2l
+- oniguruma
+- tree
 
 ## Configuration
 
@@ -32,10 +21,8 @@
 
 ### Chrome extensions
 
-- AdBlock
+- uBlock Origin
 - Click to Remove Element
-- CSSViewer
-- Enpass
 - Google Docs
 - Google Sheets
 - Google Slides
@@ -48,18 +35,13 @@
 
 ## Editors
 
-### VSCode packages
-
-- Debugger for chrome
-- Vscode icons
-
 ### Sublime packages
 
 - Align Arguments
 - Alignment
 - All Autocomplete
 - Babel
-- Bracket​Highlighter
+- Bracket Highlighter
 - Material Theme
 - Pretty JSON
 - Sass
