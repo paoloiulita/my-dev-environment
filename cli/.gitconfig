@@ -1,6 +1,6 @@
 [user]
 	name = Paolo Iulita
-	email = paolo.iulita@gmail.com
+	email = paolo.iulita@thinkopen.it
 [core]
 	excludesfile = /Users/paolo/.gitignore_global
     editor = "nano"
@@ -8,8 +8,8 @@
 	template = /Users/paolo/.stCommitMsg
 [alias]
 
-	# Basic commands
-	cp = cherry-pick
+    # Basic commands
+    cp = cherry-pick
     st = status
     co = checkout
     c = commit
@@ -33,12 +33,26 @@
     
     # Unstage easy
     unstage = reset HEAD --
-
+    
     # Grep your entire codebase for a string
     grep = grep -Ii
 
-    # Delete a remote branch
-    delete-remote = "!f() { git push origin --delete \"$1\"; }; f"
-
     # List all of your aliases
     list-aliases = "!git config -l | grep alias | cut -c 7-"
+
+    # Start a new git flow feature
+    fs = "!f() { git flow feature start \"$1\"; }; f"
+
+    # Finish a git flow feature
+    ff = "!f() { git flow feature finish \"$1\"; }; f"
+
+    # Rename a remote branch
+    rename-remote = "!f() { \
+        git checkout -b origin/\"$1\"; \
+        git branch -m \"$1\" \"$2\"; \
+        git push origin :\"$1\"; \
+        git branch --unset-upstream \"$1\"; \
+        git push --set-upstream origin \"$2\"; \
+        git checkout master; \
+        git branch -D \"$2\"; \
+    }; f"
