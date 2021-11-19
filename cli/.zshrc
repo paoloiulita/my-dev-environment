@@ -48,6 +48,9 @@ alias flushdns="dscacheutil -flushcache"
 # Easy delete DS_Store files
 alias deleteds="find . -type f -name '*.DS_Store' -ls -delete"
 
+# Recursively delete node_modules folders
+alias rmnm="find . -name node_modules -prune -exec rm -rf {} +"
+
 # List all NPM packages installed globally without the full dependancy tree
 alias npmls="npm -g ls --depth=0 "$@" 2>/dev/null"
 
