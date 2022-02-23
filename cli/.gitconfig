@@ -56,3 +56,9 @@
         git checkout master; \
         git branch -D \"$2\"; \
     }; f"
+    
+    # https://tekin.co.uk/2020/01/git-alias-to-push-and-set-upstream-trackng-on-a-branch
+    up = "!git push -u origin HEAD"
+    
+    # Stash with a name
+    nstash = "!f() { git stash push -m \"$1\"; }; f"
