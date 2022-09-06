@@ -10,6 +10,7 @@
 - gnu-getopt
 - jq
 - oauth2l
+- oh-my-posh
 - oniguruma
 - tree
 
@@ -33,23 +34,8 @@
 - Removes Taboola
 - Removes W3Schools
 
-## Editors
-
-### Sublime packages
-
-- Align Arguments
-- Alignment
-- All Autocomplete
-- Babel
-- Bracket Highlighter
-- Material Theme
-- Pretty JSON
-- Sass
-- Typescript
-
-
 ## Command Line
 
 - Install zsh: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-- use theme agnoster and set color scheme as solarized dark
-- install fonts: https://github.com/powerline/fonts and use SourceCode Pro
+- use theme regular and set color scheme as solarized dark
+- install and use Oh My Posh https://ohmyposh.dev/ with Meslo font
