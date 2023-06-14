@@ -1,11 +1,11 @@
 [user]
-	name = Paolo Iulita
-	email = paolo.iulita@thinkopen.it
+	name = $YOUR_NAME
+	email = $YOUR_EMAIL
 [core]
-	excludesfile = /Users/paolo/.gitignore_global
+	excludesfile = /Users/$USERNAME/.gitignore_global
     editor = "nano"
 [commit]
-	template = /Users/paolo/.stCommitMsg
+	template = /Users/$USERNAME/.stCommitMsg
 [alias]
 
     # Basic commands
