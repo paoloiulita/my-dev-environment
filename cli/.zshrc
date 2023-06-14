@@ -65,3 +65,8 @@ alias zshconfig="nano ~/.zshrc"
 
 # Reload the ZSH configuration
 alias reloadzsh=". ~/.zshrc"
+
+# Quick git commit
+qc() {
+  git c -m $1
+}
