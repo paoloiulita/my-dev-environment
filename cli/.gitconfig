@@ -40,12 +40,6 @@
     # List all of your aliases
     list-aliases = "!git config -l | grep alias | cut -c 7-"
 
-    # Start a new git flow feature
-    fs = "!f() { git flow feature start \"$1\"; }; f"
-
-    # Finish a git flow feature
-    ff = "!f() { git flow feature finish \"$1\"; }; f"
-
     # Rename a remote branch
     rename-remote = "!f() { \
         git checkout -b origin/\"$1\"; \
