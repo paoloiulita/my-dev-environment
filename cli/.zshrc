@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/paolo/.oh-my-zsh
+export ZSH=/Users/$USERNAME/.oh-my-zsh
 
 # Fix brew https://apple.stackexchange.com/a/413207
 eval $(/opt/homebrew/bin/brew shellenv)
