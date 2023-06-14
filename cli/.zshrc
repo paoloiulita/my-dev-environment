@@ -5,7 +5,7 @@ export ZSH=/Users/$USERNAME/.oh-my-zsh
 eval $(/opt/homebrew/bin/brew shellenv)
 
 # Load oh-my-posh
-eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/cobalt2.omp.json)"
+eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/stelbent-compact.minimal.omp.json)"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
